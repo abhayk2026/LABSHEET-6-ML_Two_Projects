@@ -1,0 +1,21 @@
+Area,Bedrooms,Location,Bathrooms,Parking,Age,Price
+850,2,Suburban,1,1,15,180000
+1000,2,Suburban,2,1,10,220000
+1200,3,City Center,2,1,8,285000
+1400,3,City Center,2,1,6,330000
+1600,3,Suburban,2,2,5,350000
+1800,4,City Center,3,2,4,430000
+2000,4,City Center,3,2,3,485000
+2200,4,Suburban,3,2,2,470000
+2400,5,City Center,3,2,2,600000
+2600,5,City Center,4,3,1,680000
+1100,2,Outskirts,1,1,12,190000
+1300,3,Outskirts,2,1,9,250000
+1500,3,Suburban,2,2,7,315000
+1700,3,City Center,2,2,5,390000
+1900,4,Suburban,3,2,4,410000
+2100,4,City Center,3,2,3,510000
+2300,4,Outskirts,3,2,2,440000
+2500,5,Suburban,3,3,3,550000
+2700,5,City Center,4,3,2,710000
+3000,5,City Center,4,3,1,790000
